@@ -1,3 +1,14 @@
+---
+title: RAG Asesor Financiero
+emoji: 💰
+colorFrom: indigo
+colorTo: green
+sdk: gradio
+sdk_version: 6.14.0
+app_file: app.py
+pinned: false
+---
+
 # Asesor RAG de Libertad Financiera
 
 Asesor RAG de Libertad Financiera es una aplicación web en Python con Gradio para un proyecto final de un curso de IA. Responde preguntas educativas sobre independencia financiera, finanzas personales, fondos de emergencia, inversión a largo plazo, diversificación, gestión de riesgos, presupuesto, manejo de deudas y priorización de inversiones usando un pipeline local de Retrieval-Augmented Generation.
